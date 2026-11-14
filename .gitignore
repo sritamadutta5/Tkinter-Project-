@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+wanderlist_data.json
+wanderlist_data.json.bak
+wanderlist_data.json.tmp
+.venv/
+venv/
+.env
